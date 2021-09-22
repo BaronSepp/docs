@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "dd8ae7fc407d6e8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f66ffa8100d2c0f5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Areas/Azure ARM/Keys.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "42a48bbd38ecfb1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b405e26034ef947c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95dc7777452b66a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "82c5c410880bd9ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "90576703025faf12",
+    "type": "split",
+    "children": [
+      {
+        "id": "dab4966a05a9dfdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21be53ec61c5c42f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Areas/Azure ARM/Keys.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f66ffa8100d2c0f5",
+  "lastOpenFiles": [
+    "Areas/Azure ARM/Keys.md",
+    "Projects/Untitled.md",
+    "Archives/Untitled.md",
+    "Areas/Azure ARM/Untitled.md",
+    "Resources/Untitled.md",
+    "Areas/Linux/Commands.md",
+    "Areas/Linux/Artix/Configuration.md",
+    "Areas/Linux/Untitled.md",
+    "Areas/Artix/qn.md",
+    "Areas/Artix/Installation.md"
+  ]
+}
