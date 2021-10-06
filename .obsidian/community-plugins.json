@@ -1,4 +1,7 @@
 [
   "obsidian-git",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-admonition",
+  "cm-editor-syntax-highlight-obsidian",
+  "url-into-selection"
 ]

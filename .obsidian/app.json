@@ -1,4 +1,5 @@
 {
   "spellcheck": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "showUnsupportedFiles": true
 }
