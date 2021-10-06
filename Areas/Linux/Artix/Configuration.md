@@ -7,32 +7,27 @@ Author: S
 ## Users and groups
 
 ### Create new user
-
-```sh
+```shell
 useradd -m -g wheel usr #add user 'usr' to group 'wheel'
 passwd usr #gives user 'usr' a password
 ```
 
 ### Set Privileges
-
 Open `visudo` and uncomment desired values.
 
 #### Defaults
-
-```sh
+```shell
 root ALL=(ALL) ALL
 %wheel ALL=(ALL) ALL
 ```
 
 #### Exclude password for certain commands
-
-```sh
+```shell
 %wheel ALL=(ALL) NOPASSWD: /usr/bin/shutdown,/usr/bin/reboot,/usr/bin/mount,/usr/bin/umount,/usr/bin/pacman -Syu
 ```
 
 ### Password eligible for all terminals
-
-```sh
+```shell
 Defaults !tty_tickets
 ```
 
@@ -45,14 +40,12 @@ Check out `man` for `useradd`, `userdel`, `groupadd`, `groupdel`, etc.
 ### xorg
 
 Install xorg by running the following command:
-
-```sh
+```shell
 pacman -S xorg-server xorg-xinit
 ```
 
 Start X by running:
-
-```sh
+```shell
 exec startx
 ```
 
@@ -61,7 +54,6 @@ Configuration can be found at `~/.xinitrc`
 A common error involves the intel video drivers. Resolve this by installing `xf86-video-intel`.
 
 ### Desktop Environemt
-
 ```sh
 pacman -S xfce4
 ```
@@ -91,7 +83,7 @@ Check out files like `~/.profile` or `~/.bash_profile`.
 
 Example for `~/.profile`:
 
-```sh
+```shell
 export EDITOR="vim"
 export TERMINAL="st"
 export BROWSER="firefox"

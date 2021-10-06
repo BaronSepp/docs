@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Areas/Linux/UFW.md",
+            "file": "Areas/Linux/Commands.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Linux/UFW.md",
+                "file": "Areas/Linux/Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Linux/UFW.md",
+                "file": "Areas/Linux/Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Linux/UFW.md"
+                "file": "Areas/Linux/Commands.md"
               }
             }
           }
@@ -110,15 +110,15 @@
   },
   "active": "1fa9412df4c78874",
   "lastOpenFiles": [
-    "Areas/Linux/UFW.md",
-    "Areas/Azure ARM/Keys.md",
-    "IoTHub.md",
-    "Archives/placeholder.md",
     "Areas/Linux/Commands.md",
+    "Areas/Linux/Artix/Notes.md",
+    "Areas/Linux/Artix/Installation.md",
     "Areas/Linux/Artix/Configuration.md",
-    "Projects/Untitled.md",
-    "Archives/Untitled.md",
-    "Areas/Azure ARM/Untitled.md",
-    "Resources/Untitled.md"
+    "Projects/placeholder.md",
+    "Resources/Git.md",
+    "Resources/Powershell.md",
+    "Resources/Untitled.md",
+    "Areas/Linux/UFW.md",
+    "Areas/Azure ARM/Keys.md"
   ]
 }
