@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Areas/Linux/UFW.md",
-            "mode": "source"
+            "file": "Resources/GPG.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Linux/UFW.md",
+                "file": "Resources/GPG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Linux/UFW.md",
+                "file": "Resources/GPG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Linux/UFW.md"
+                "file": "Resources/GPG.md"
               }
             }
           }
@@ -110,15 +110,15 @@
   },
   "active": "1fa9412df4c78874",
   "lastOpenFiles": [
-    "Areas/Linux/UFW.md",
+    "Resources/GPG.md",
+    "Resources/Git.md",
+    "Areas/Linux/Artix/Configuration.md",
     "Areas/Linux/Commands.md",
+    "Projects/placeholder.md",
+    "Resources/Powershell.md",
+    "Areas/Linux/UFW.md",
     "Areas/Linux/Artix/Notes.md",
     "Areas/Linux/Artix/Installation.md",
-    "Areas/Linux/Artix/Configuration.md",
-    "Projects/placeholder.md",
-    "Resources/Git.md",
-    "Resources/Powershell.md",
-    "Resources/Untitled.md",
-    "Areas/Azure ARM/Keys.md"
+    "Resources/Untitled.md"
   ]
 }
