@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1fa9412df4c78874",
+        "id": "2cd7704f05ca98e9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/Git.md",
+            "file": "Areas/Linux/DotNET.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Git.md",
+                "file": "Areas/Linux/DotNET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Git.md",
+                "file": "Areas/Linux/DotNET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Git.md"
+                "file": "Areas/Linux/DotNET.md"
               }
             }
           }
@@ -109,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1fa9412df4c78874",
+  "active": "2cd7704f05ca98e9",
   "lastOpenFiles": [
-    "Resources/Git.md",
-    "Resources/Powershell.md",
+    "Areas/Linux/DotNET.md",
+    "Archives/placeholder.md",
+    "Areas/Azure ARM/Keys.md",
     "Areas/Linux/UFW.md",
     "Areas/Linux/Commands.md",
-    "Resources/GPG.md",
-    "Areas/Linux/Artix/Configuration.md",
-    "Areas/Linux/Artix/Installation.md",
     "Areas/Linux/Artix/Notes.md",
-    "Areas/Azure ARM/Keys.md",
-    "Projects/placeholder.md"
+    "Areas/Linux/Artix/Installation.md",
+    "Areas/Linux/Artix/Configuration.md",
+    "Projects/placeholder.md",
+    "Resources/Powershell.md"
   ]
 }
