@@ -101,6 +101,17 @@
                 "file": "Resources/Git.md"
               }
             }
+          },
+          {
+            "id": "de87362242a1d9f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       }
