@@ -1,7 +1,3 @@
----
-Title: Artix Configuration Guide (WIP)
-Author: S
----
 # Artix Configuration 
 
 ## Users and groups
@@ -35,7 +31,7 @@ Defaults !tty_tickets
 
 Check out `man` for `useradd`, `userdel`, `groupadd`, `groupdel`, etc.
 
-## Graphical Enviroment Requirements
+## Graphical Environment Requirements
 
 ### xorg
 

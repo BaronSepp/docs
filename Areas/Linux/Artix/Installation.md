@@ -1,7 +1,3 @@
----
-Title: Artix Runit Installation Guide
-Author: S
----
 # Artix Runit
 
 ## Check UEFI compatibility

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Areas/Linux/DotNET.md",
+            "file": "Areas/Linux/Artix/Configuration.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Linux/DotNET.md",
+                "file": "Areas/Linux/Artix/Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Linux/DotNET.md",
+                "file": "Areas/Linux/Artix/Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Linux/DotNET.md"
+                "file": "Areas/Linux/Artix/Configuration.md"
               }
             }
           }
@@ -111,15 +111,15 @@
   },
   "active": "2cd7704f05ca98e9",
   "lastOpenFiles": [
-    "Areas/Linux/DotNET.md",
-    "Archives/placeholder.md",
-    "Areas/Azure ARM/Keys.md",
+    "Areas/Linux/Artix/Configuration.md",
+    "Areas/Linux/Artix/Installation.md",
+    "Areas/Linux/Artix/Notes.md",
     "Areas/Linux/UFW.md",
     "Areas/Linux/Commands.md",
-    "Areas/Linux/Artix/Notes.md",
-    "Areas/Linux/Artix/Installation.md",
-    "Areas/Linux/Artix/Configuration.md",
+    "Areas/DotNET.md",
     "Projects/placeholder.md",
-    "Resources/Powershell.md"
+    "Resources/Powershell.md",
+    "Resources/GPG.md",
+    "Resources/Git.md"
   ]
 }

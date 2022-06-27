@@ -1,4 +1,4 @@
-# Globalization issue in Alpine Linux containers
+# Globalization issue in Alpine [[Linux]] containers
 ```Dockerfile
 # Install cultures (same approach as Alpine SDK image)
 RUN apk add --no-cache icu-libs
@@ -7,12 +7,14 @@ RUN apk add --no-cache icu-libs
 ENV DOTNET_SYSTEM_GLOBALIZATION_INVARIANT=false
 ```
 
-# Enable support for older cryptography ciphers in Ubuntu
+# Enable support for older cryptography ciphers in Ubuntu [[Linux]]
 [Microsoft Documentation](https://docs.microsoft.com/en-us/dotnet/core/compatibility/cryptography/5.0/default-cipher-suites-for-tls-on-linux)
 
 Script to downgrade the containers internal security as older cypher suites which have been disabled for Linux since .NET 5
 
 ```bash
+#!/bin/bash
+
 # Variables
 PREPEND="openssl_conf = default_conf"
 APPEND="[ default_conf ]\nssl_conf = ssl_sect\n\n[ssl_sect]\nsystem_default = system_default_sect\n\n[system_default_sect]\nCipherString = DEFAULT:@SECLEVEL=1"
