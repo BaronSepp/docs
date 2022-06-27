@@ -44,7 +44,7 @@ Host *
     SSH_OPTION value
 ```
 - For example:
-  ```ini
+```ini
   Host ssh.dev.azure.com
     HostName ssh.dev.azure.com
     User git
